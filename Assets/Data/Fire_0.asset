@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d2576c3abd0b0244be2680aca11b1eb, type: 3}
+  m_Name: Fire_0
+  m_EditorClassIdentifier: 
+  completed: 0
+  step: 0
+  NPCLine:
+  - "Fuego: Saludos! Que tu luz crezca cada d\xEDa e ilumines a todos aquellos que
+    se encuentran en tinieblas."
+  - "Fuego: Cuando saber c\xF3mo hacerlo, las penumbras pueden tornarse en oscuridad
+    total o en luz incandescente."
+  - "Fuego: La pr\xE1ctica hace al maestro. Forjar un esp\xEDritu requiere milenios
+    de pr\xE1ctica."
+  - "Fuego: Paciencia. La frustraci\xF3n no deja apreciar los peque\xF1os avances.
+    Recuerda c\xF3mo eran las cosas cuando a\xFAn no ten\xEDas el conocimiento que
+    persegu\xEDas desde la infancia."
+  responseLine:
+  - "Estando al borde de la amargura s\xF3lo puedo ofrecer penumbras. Y siendo as\xED,
+    prefiero no ofrecer."
+  - "Tendr\xEDa m\xE1s certeza de afirmar \"saber hacerlo\" si el resultado fuerta
+    m\xE1s potente y duradero."
+  - Milenios...
+  - "Tienes raz\xF3n, todo es mucho mejor ahora."
